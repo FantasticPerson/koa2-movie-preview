@@ -1,0 +1,24 @@
+{
+  "name": "koa2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FantasticPerson/koa2-movie-preview.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FantasticPerson/koa2-movie-preview/issues"
+  },
+  "homepage": "https://github.com/FantasticPerson/koa2-movie-preview#readme",
+  "dependencies": {
+    "koa": "2.6.1"
+  }
+}
