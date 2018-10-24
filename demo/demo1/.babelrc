@@ -1,0 +1,19 @@
+{
+    "presets":[
+        [
+            "env",
+            {
+                "target":{
+                    "node":"current"
+                }
+            }
+        ]
+    ],
+    "plugins":[
+        [
+            "transform",{
+                
+            }
+        ]
+    ]
+}
