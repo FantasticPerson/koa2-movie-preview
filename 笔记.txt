@@ -32,3 +32,7 @@ koa 纯洁  不自带其他中间件
 new koa 做了什么事
 app.use 做了什么事情
 app.listen 做了什么事情
+
+ejs
+pug 
+parcel

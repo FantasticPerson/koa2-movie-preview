@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["changeTitle","window","$","html","setTimeout"],"mappings":";AAAA,SAASA,IACLC,OAAOC,EAAE,QAAQC,KAAK,cAI1BC,WAAW,WACPJ,KACF","file":"parcel.5fb84d61.map","sourceRoot":"..","sourcesContent":["function changeTitle(){\r\n    window.$('#app').html('Parcel 大宝宝')\r\n}\r\n\r\n\r\nsetTimeout(function(){\r\n    changeTitle()\r\n},2000)"]}
