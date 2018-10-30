@@ -32,6 +32,7 @@
     "koa-views": "6.1.4",
     "parcel": "1.10.3",
     "pug": "2.0.3",
+    "puppeteer": "^1.9.0",
     "react": "16.6.0",
     "react-dom": "16.6.0"
   },
