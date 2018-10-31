@@ -35,4 +35,5 @@ app.listen 做了什么事情
 
 ejs
 pug 
-parcel
+parcel 打包工具
+
