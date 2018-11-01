@@ -30,6 +30,7 @@
     "koa": "2.6.1",
     "koa-static": "5.0.0",
     "koa-views": "6.1.4",
+    "mongoose": "^5.3.8",
     "parcel": "1.10.3",
     "pug": "2.0.3",
     "puppeteer": "^1.9.0",
